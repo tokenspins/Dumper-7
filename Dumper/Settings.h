@@ -12,7 +12,7 @@ namespace Settings
 		constexpr bool bSearchOnlyExecutableSectionsForStrings = true;
 
 		/* If the target module is not the main executable, specify it here (e.g. "Some-dll-name.dll") */
-		constexpr const char* DefaultModuleName = nullptr;
+		constexpr const char* DefaultModuleName = "UnrealEditorFortnite-Engine-Win64-Shipping.dll";
 	}
   
 	inline constexpr const char* GlobalConfigPath = "C:/Dumper-7/Dumper-7.ini";
