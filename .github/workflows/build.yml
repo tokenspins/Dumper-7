@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - EnumTest
   pull_request:
     branches:
       - main
