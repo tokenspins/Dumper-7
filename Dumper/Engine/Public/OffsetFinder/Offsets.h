@@ -72,7 +72,7 @@ namespace Off
 
 		namespace NameArray
 		{
-			inline int32 GNames = 0x0;
+			//inline int32 GNames = 0x0;
 			inline int32 FNamePoolBlockOffsetBits = 0x0;
 			inline int32 FNameEntryStride = 0x0;
 		}
